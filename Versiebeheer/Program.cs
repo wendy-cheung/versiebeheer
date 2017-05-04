@@ -10,6 +10,7 @@ namespace Versiebeheer
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
     }
 }
